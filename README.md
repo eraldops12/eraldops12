@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do eraldops12 😁
+## Olá, seja bem-vindo(a) ao perfil do eraldops12 😁
 
  <div>
    <a href="https://github.com/eraldops12">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Para conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/valedastrilhas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
