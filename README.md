@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a) ao perfil do eraldops12 😁
+## Olá, seja bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/eraldops12">
